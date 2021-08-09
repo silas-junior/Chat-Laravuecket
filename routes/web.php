@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Api\MessageController;
 use App\Http\Controllers\ChatController;
 use App\Http\Controllers\DefaultController;
 use Illuminate\Foundation\Application;
